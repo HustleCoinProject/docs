@@ -52,7 +52,7 @@ Depending on your location, you may have the following rights regarding your per
 * Request deletion of your personal data.
 * Opt-out of promotional communications.
 
-To exercise these rights, please contact us at [Your Contact Email].
+To exercise these rights, please contact us at [ailtonjoaosimao@gmail.com].
 
 ---
 
