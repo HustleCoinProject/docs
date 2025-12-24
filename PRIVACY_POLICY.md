@@ -79,11 +79,3 @@ We may update this Privacy Policy from time to time. The updated version will be
 If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact us at:
 
 **Email:** ailtonjoaosimao@gmail.com
-
----
-
-This template covers **essential privacy policy requirements** for most apps, including account management, personal data usage, security, legal compliance, and children’s privacy.
-
-If you want, I can also draft a **shorter, more user-friendly version** suitable to show directly inside the app during registration. This is often more readable and improves compliance with app store policies.
-
-Do you want me to do that?
